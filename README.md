@@ -1,3 +1,11 @@
+# Global Supply Chain Optimization
+
+**Repository:** PowerBI-Projects
+
+This repository contains dashboards analyzing Supplier Performance, Customer Demographics, Product Performance, and Interaction Feedback. 
+These dashboards are created using Power BI to visualize and analyze key business metrics, helping to identify trends, performance gaps, and insights for decision-making
+
+
 ## Dashboard Overview
 ![Dashboard Overview](https://github.com/Sameera-cod/Powerbi-Projects/raw/main/Dashboard_Overview.png)
 
